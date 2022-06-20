@@ -110,7 +110,7 @@ body {
 .indicator::after {
   content: '';
   position: absolute;
-  top: 50px;
+  top: 49px;
   left: 0px;
   width: 15px;
   height: 15px;
